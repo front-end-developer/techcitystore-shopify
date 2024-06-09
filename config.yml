@@ -1,11 +1,13 @@
  development:
   theme_id: "c09d802d-91cf-431a-b22f-5dc9e0c5f64b"
   store: www-techcitystore-com.myshopify.com
+  password: {DEV_TECHSTOREPASSWD}
   proxy: http://localhost:3000
   timeout: 60s
   readonly: true
  production:
   theme_id: "c09d802d-91cf-431a-b22f-5dc9e0c5f64b"
   store: www-techcitystore-com.myshopify.com
+  password: {DEV_TECHSTOREPASSWD}
   timeout: 60s
   readonly: true
