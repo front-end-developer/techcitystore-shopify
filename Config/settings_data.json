@@ -1,0 +1,3033 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+{
+  "current": {
+    "promo_bar_bg_color": "#ee9727",
+    "promo_bar_text_color": "#ffffff",
+    "header_bg_color": "#ffffff",
+    "header_logo_color": "#282727",
+    "header_text_color": "#898989",
+    "header_top_link_color": "#898989",
+    "header_border_color": "#ecefef",
+    "nav_bg_color": "#ffffff",
+    "nav_bg_color_mobile": "#ffffff",
+    "nav_text_color": "#282727",
+    "nav_parent_hover": "#ff4c3b",
+    "primary_color": "#ff4c3b",
+    "secondary_color": "#db8827",
+    "heading_text_color": "#282727",
+    "body_text_color": "#282727",
+    "link_hover_color": "#ffc73b",
+    "button_text_color": "#ffffff",
+    "regular_price_color": "#282827",
+    "compare_price_color": "#cccccc",
+    "body_background_color": "#f3f6f6",
+    "show_bg_image": false,
+    "bg_repeat": "no-repeat",
+    "bg_fixed": false,
+    "bg_stretched": false,
+    "content_heading_color": "#ff4c3b",
+    "content_text_color": "#898989",
+    "content_link_color": "#ff4c3b",
+    "footer_bg_color": "#ffffff",
+    "footer_heading_color": "#282727",
+    "footer_text_color": "#9a9a9a",
+    "footer_link_color": "#4e4e4e",
+    "footer_border_color": "#ecefef",
+    "footer_social_color": "#d7dbdb",
+    "base_font_value": "lato_n4",
+    "body_text_size": 14,
+    "header_font_value": "lato_n4",
+    "nav_text_weight": "900",
+    "nav_text_transform": "uppercase",
+    "nav_text_size": 14,
+    "nav_header_size": 16,
+    "nav_link_size": 13,
+    "header_size_1": 20,
+    "header_size_2": 18,
+    "header_size_3": 17,
+    "cart_type": "modal",
+    "limit_purchase_quantities": false,
+    "cart_notes": true,
+    "show_currency_disclaimer": false,
+    "cart_link_list": "",
+    "show_shipping_calculator": true,
+    "shipping_calculator_default_country": "United States",
+    "search_type_query": "search_everything",
+    "enable_live_search": true,
+    "use_infinite_scroll": false,
+    "custom_price0_text": "Free",
+    "hide_price0_box_and_button": true,
+    "align_height": true,
+    "collection_height": 250,
+    "show_product_swatches": false,
+    "show_smart_checkout": true,
+    "product_reviews": true,
+    "share_image": "shopify:\/\/shop_images\/SOCIAL_AVATARS_store.jpg",
+    "twitter_link": "",
+    "facebook_link": "https:\/\/www.facebook.com\/profile.php?id=100093844102880",
+    "pinterest_link": "https:\/\/www.pinterest.es\/techcitystore\/",
+    "tiktok_link": "https:\/\/www.tiktok.com\/@techcitystore",
+    "google_plus_link": "",
+    "instagram_link": "https:\/\/www.instagram.com\/techcitystore_com\/",
+    "tumblr_link": "",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "show_entry_popup": false,
+    "popup_delay": 0,
+    "popup_return": "7",
+    "entry_popup_heading": "",
+    "entry_popup_text": "",
+    "popup_heading_size": 24,
+    "popup_text_size": 18,
+    "popup_logo": "",
+    "popup_image_position": "right",
+    "entry_popup_newsletter": false,
+    "entry_popup_social": false,
+    "show_multiple_currencies": false,
+    "currency_format": "money_format",
+    "supported_currencies": "USD GBP EUR",
+    "default_currency": "EUR",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Asset_3_3x-small.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#898989",
+    "checkout_button_color": "#ff4c3b",
+    "checkout_error_color": "#ff6d6d",
+    "home_cta_hd_color": "#282827",
+    "home_cta_txt_color": "#9a9a9a",
+    "home_cta_bg_color": "#dbdbdb",
+    "home_newsletter_hd_color": "#ffffff",
+    "home_newsletter_txt_color": "#ffffff",
+    "home_newsletter_bg_color": "#dbdbdb",
+    "sd_heading_color": "#ffffff",
+    "sd_line_color": "#fbcf00",
+    "sd_sub_heading_color": "#ffffff",
+    "sd_text_color": "#ffffff",
+    "home_video_hd_color": "#ffffff",
+    "home_video_description_color": "#ffffff",
+    "home_video_play_icon_color": "#ffffff",
+    "home_video_bg_color": "#9a9a9a",
+    "ctab_bg_color": "#ffffff",
+    "ctab_heading_color": "#282727",
+    "ctab_link_color": "#107fa8",
+    "ctab_border_color": "#ecefef",
+    "show_product_reviews_stars": true,
+    "head_promobar": 14,
+    "head_font_size": 14,
+    "slider_heading_size": 36,
+    "slider_sub_heading_size": 18,
+    "slider_content_size": 18,
+    "video_heading_size": 24,
+    "video_description_size": 16,
+    "home_cta_heading_size": 36,
+    "home_cta_content_size": 18,
+    "home_newsletter_heading_size": 36,
+    "home_newsletter_content_size": 18,
+    "enable_custom_price0": true,
+    "page_link_list": "",
+    "show_sidebar_page_collections": false,
+    "show_page_sidebar_sale": false,
+    "sidebar_page_sale_collection": "",
+    "sidebar_page_product_count": 4,
+    "navigation_type": "advanced",
+    "sticky_menu": true,
+    "footer_display_newsletter": true,
+    "footer_display_social": true,
+    "mailing_list_form_action": "",
+    "show_cart_sidebar": false,
+    "show_sidebar_cart_links": false,
+    "feature_collection_list": "",
+    "home_feature_collection_rows": "1",
+    "blackquote_content": "14px",
+    "footer_header_size": "20px",
+    "footer_content_size": "14px",
+    "slider_button_size": "14px",
+    "header_size_4": "16px",
+    "header_size_5": "15px",
+    "header_size_6": "14px",
+    "p_tag_content": "14px",
+    "mm_heading_color": "#282727",
+    "mm_heading_underlines": "#ecefef",
+    "mm_bg_color": "#ffffff",
+    "mm_link_color": "#107fa8",
+    "nav_hover_color": "#136f99",
+    "sale_badge_color": "#fbcf00",
+    "soldout_badge_color": "#666666",
+    "footer_icon_color": "#107fa8",
+    "footer_footer_link_color": "#107fa8",
+    "use_home_cta": true,
+    "use_page_content": false,
+    "use_featured_products": true,
+    "use_instagram_widget": "0",
+    "hf_bg_color": "#ffffff",
+    "hf_logo_color": "#282727",
+    "hf_heading_color": "#282727",
+    "hf_text_color": "#898989",
+    "hf_top_link_color": "#898989",
+    "hf_footer_link_color": "#107fa8",
+    "hf_border_color": "#ecefef",
+    "hf_social_color": "#d7dbdb",
+    "footer_button_size": "12px",
+    "fixed_search": true,
+    "home_video_heading": "Video",
+    "home_single_product": "blue-bowl-with-handle",
+    "home_video": "<iframe width=\"420\" height=\"315\" src=\"https:\/\/www.youtube.com\/embed\/9VUPq3SxOc\" frameborder=\"0\" allowfullscreen><\/iframe>",
+    "show_product_variant_postion": "bottom",
+    "base_size": "16px",
+    "header_size": "36px",
+    "link_1_text": "Test",
+    "link_1_link": "#",
+    "link_1_type": "mega4",
+    "link_1_col_1_heading": "Test",
+    "link_1_col_1": "",
+    "link_1_col_2_heading": "Test",
+    "link_1_col_2": "main-menu",
+    "link_1_col_3_heading": "Test",
+    "link_1_col_3": "main-menu",
+    "link_1_col_4_heading": "Test",
+    "link_1_col_4": "main-menu",
+    "link_2_text": "",
+    "link_2_link": "",
+    "link_2_type": "standard",
+    "link_2_col_1_heading": "",
+    "link_2_col_1": "",
+    "link_2_col_2_heading": "",
+    "link_2_col_2": "",
+    "link_2_col_3_heading": "",
+    "link_2_col_3": "",
+    "link_2_col_4_heading": "",
+    "link_2_col_4": "",
+    "link_3_text": "",
+    "link_3_link": "",
+    "link_3_type": "standard",
+    "link_3_col_1_heading": "",
+    "link_3_col_1": "",
+    "link_3_col_2_heading": "",
+    "link_3_col_2": "",
+    "link_3_col_3_heading": "",
+    "link_3_col_3": "",
+    "link_3_col_4_heading": "",
+    "link_3_col_4": "",
+    "link_4_text": "",
+    "link_4_link": "",
+    "link_4_type": "standard",
+    "link_4_col_1_heading": "",
+    "link_4_col_1": "",
+    "link_4_col_2_heading": "",
+    "link_4_col_2": "",
+    "link_4_col_3_heading": "",
+    "link_4_col_3": "",
+    "link_4_col_4_heading": "",
+    "link_4_col_4": "",
+    "link_5_text": "",
+    "link_5_link": "",
+    "link_5_type": "standard",
+    "link_5_col_1_heading": "",
+    "link_5_col_1": "",
+    "link_5_col_2_heading": "",
+    "link_5_col_2": "",
+    "link_5_col_3_heading": "",
+    "link_5_col_3": "",
+    "link_5_col_4_heading": "",
+    "link_5_col_4": "",
+    "link_6_text": "",
+    "link_6_link": "",
+    "link_6_type": "standard",
+    "link_6_col_1_heading": "",
+    "link_6_col_1": "",
+    "link_6_col_2_heading": "",
+    "link_6_col_2": "",
+    "link_6_col_3_heading": "",
+    "link_6_col_3": "",
+    "link_6_col_4_heading": "",
+    "link_6_col_4": "",
+    "fixed_header": false,
+    "fixed_search_bar": true,
+    "search_type": "bar",
+    "instagram_rows": "2",
+    "show_product_tabs": "0",
+    "show_sb_collections": true,
+    "blog_count": "6",
+    "show_sb_blog": true,
+    "ajax_add_to_cart": true,
+    "ajax_add_to_cart_count": false,
+    "promo_banner_1_overlay": false,
+    "promo_banner_2_overlay": false,
+    "show_promo_row_2": false,
+    "promo_banner_3_overlay": false,
+    "promo_banner_4_overlay": false,
+    "promo_banner_5_overlay": false,
+    "slideshow_1_alt": "Customizable Homepage Slideshow",
+    "slideshow_1_caption_active": true,
+    "slideshow_2_alt": "This is the Second Slide",
+    "slideshow_2_caption_active": true,
+    "slideshow_3_alt": "",
+    "slideshow_3_caption_active": false,
+    "slideshow_4_alt": "",
+    "slideshow_4_caption_active": false,
+    "slideshow_5_alt": "",
+    "slideshow_5_caption_active": false,
+    "show_promo_row_1": false,
+    "show_header_phone": true,
+    "show_header_email": true,
+    "footer_show_linklist_1": true,
+    "footer_show_linklist_2": false,
+    "footer_show_linklist_3": false,
+    "show_credits": "1",
+    "show_page_sidebar": true,
+    "show_sidebar_page_links": true,
+    "search_results": "everything",
+    "customer_layout": "theme",
+    "use_promo_banners": true,
+    "footer_instagram_number": "8",
+    "google_heading_font": "Lato",
+    "standard_heading_font": "Helvetica, Arial, sans-serif",
+    "google_body_font": "Lato",
+    "standard_body_font": "Helvetica, Arial, sans-serif",
+    "quick_view_enabled": true,
+    "show_sidebar_tags": true,
+    "heading_typeface_method": "google_heading_fonts",
+    "body_typeface_method": "google_body_fonts",
+    "show_blog_images": "false",
+    "show_sidebar_page_posts": "true",
+    "hf_link_color": "#898989",
+    "top_bar_bg_color": "#ffffff",
+    "top_bar_link_color": "#898989",
+    "footer_top_color": "#ffffff",
+    "footer_top_text_color": "#282727",
+    "footer_top_icons": "#107fa8",
+    "footer_top_border": "#efefef",
+    "footer_bottom_color": "#ffffff",
+    "footer_bottom_heading_text": "#282827",
+    "footer_bottom_text_color": "#898989",
+    "footer_bottom_icons": "#d7dbdb",
+    "rss_blog_title": "news",
+    "content_heading_text_color": "#282727",
+    "content_link_hover_color": "#136f99",
+    "content_button_background_color": "#107fa8",
+    "content_button_hover_color": "#136f99",
+    "content_button_text_color": "#ffffff",
+    "container_heading_color": "#282827",
+    "container_text_color": "#898989",
+    "container_link_color": "#107fa8",
+    "container_link_hover_color": "#136f99",
+    "button_background_color": "#107fa8",
+    "button_background_hover": "#136f99",
+    "secondary_button_background_color": "#fbcf00",
+    "secondary_button_background_hover": "#136f99",
+    "sale_background_color": "#fbcf00",
+    "sale_text_color": "#ffffff",
+    "soldout_background_color": "#666666",
+    "soldout_text_color": "#ffffff",
+    "top_bar_text_color": "#898989",
+    "top_bar_hover_color": "#136f99",
+    "top_bar_icon_color": "#107fa8",
+    "logo_color": "#282727",
+    "logo_hover_color": "#136f99",
+    "nav_dd_text_color": "#107fa8",
+    "nav_dd_hover_color": "#136f99",
+    "slideshow_text": "#282727",
+    "slideshow_line": "#fbcf00",
+    "footer_top_link_color": "#282727",
+    "footer_top_hover_color": "#107fa8",
+    "footer_bottom_link_color": "#107fa8",
+    "footer_bottom_hover_color": "#136f99",
+    "use_custom_bg_image": "0",
+    "footer_color": "#f9f9f9",
+    "footer_social_link_color": "#ab9aa0",
+    "typeface_method": "google_fonts",
+    "google_font": "Lato",
+    "standard_font": "Helvetica, Arial, sans-serif",
+    "ad_banner_3_link": "\/collections\/all",
+    "ad_banner_4_link": "\/collections\/all",
+    "ad_banner_5_link": "\/collections\/all",
+    "featured_products_title": "Featured collection",
+    "use_blog_entries": "true",
+    "home_blog_title": "From the Blog",
+    "blog_title": "news",
+    "home_number_of_entries": "3",
+    "home_entry_format": "3-col",
+    "show_collection_slider": "true",
+    "collection_featured_image": "true",
+    "show_grid_vendor": "true",
+    "sidebar_collections_title": "Collections",
+    "sidebar_vendors_title": "Brands",
+    "sidebar_tags_title": "Tags",
+    "sidebar_collection_sale_title": "On Sale",
+    "include_filter_no_3": "false",
+    "filter_no_3_label": "",
+    "filter_no_3_linklist": "",
+    "product_tab_1_content": "",
+    "product_tab_2_content": "",
+    "product_tab_3_content": "",
+    "product_tab_4_content": "",
+    "related_products_title": "We Also Recommend",
+    "sidebar_recent_posts_title": "Recent Posts",
+    "sidebar_blog_tags_title": "Categories",
+    "show_blog_sidebar_sale": "true",
+    "sidebar_blog_sale_title": "On Sale",
+    "sidebar_blog_sale_collection": "frontpage",
+    "sidebar_blog_product_count": "4",
+    "page_links_title": "Links",
+    "sidebar_page_collections_title": "Collections",
+    "sidebar_page_posts_title": "Recent Posts",
+    "sidebar_page_sale_title": "On Sale",
+    "product_description_layout": "product_tabs",
+    "show_cart_links": "true",
+    "sidebar_sale_title": "On Sale",
+    "sidebar_product_count": "4",
+    "show_sidebar_sale": "true",
+    "newsletter_heading": "Stay in Touch",
+    "newsletter_text": "Sign up for our newsletter and be the first to know about coupons and special promotions.",
+    "featured_collections_title": "Featured Collections",
+    "parallax_image_text": "30% Off Summer Collection",
+    "parallax_button_text": "Shop Now",
+    "parallax_link": "\/collections\/summer",
+    "use_featured_collections": "true",
+    "use_parallax_banner": "true",
+    "ad_banner_1_link": "\/collections\/all",
+    "ad_banner_2_link": "\/collections\/all",
+    "ad_banner_3_heading": "",
+    "ad_banner_3_subtext": "",
+    "ad_banner_1_heading": "Five Fun Family Breakfast Ideas",
+    "ad_banner_1_subtext": "Breakfast can be rushed an impersonal.  Try these ideas to make morning family time more fun and rewarding.",
+    "ad_banner_2_heading": "Baking Cakes at Home",
+    "ad_banner_2_subtext": "Follow our easy guide to baking great cakes with our products.",
+    "use_ad_banners": "true",
+    "ad_banner_1_small_text": "Extreme",
+    "ad_banner_1_large_text": "Beauty",
+    "ad_banner_2_small_text": "Save Big On",
+    "ad_banner_2_large_text": "Summer",
+    "ad_banner_3_small_text": "Maternity",
+    "ad_banner_3_large_text": "Shopping",
+    "slideshow_1_pattern": "false",
+    "slideshow_2_pattern": "false",
+    "slideshow_3_pattern": "false",
+    "slideshow_4_pattern": "false",
+    "slideshow_5_pattern": "false",
+    "slideshow_6_pattern": "false",
+    "slideshow_7_pattern": "false",
+    "site_layout": "wide",
+    "heading_font_weight": "400",
+    "heading_font_style": "none",
+    "logo_max_width": "450px",
+    "show_cart_hover": "false",
+    "show_top_bar": "false",
+    "show_top_bar_links": "false",
+    "show_top_bar_social": "false",
+    "footer_newsletter_title": "Stay in Touch",
+    "footer_contact_title": "Contact Us",
+    "footer_contact_text": "",
+    "footer_display_contact": "true",
+    "muted_color": "#cfbca3",
+    "alternate_color": "#b6965c",
+    "contrasting_color": "#742a24",
+    "search_layout": "grid",
+    "ajax_cart_method": "modal",
+    "ajax_cart": "true",
+    "product_tabs": "true",
+    "product_quantity": "true",
+    "blog_grid_layout": "3-col",
+    "number_of_entries": "3",
+    "entry_format": "3-col",
+    "home_featured_title": "Featured collection",
+    "footer_social_title": "Follow Us",
+    "fancy_link": "http:\/\/fancy.com\/search?q=shopify",
+    "accent_color": "#ffea00",
+    "sidebar_sale_collection": "frontpage",
+    "heading_google_font": "Lato",
+    "heading_standard_font": "Helvetica, Arial, sans-serif",
+    "show_animation": true,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "show_announcement": true,
+          "promo_bar_text": "FREE DISCOUNT VOUCHERS ON ALL PRODUCTS - IF YOU SUBSCRIBE TODAY",
+          "promo_bar_link": "",
+          "head_promobar": 17,
+          "header_style": "header1",
+          "logo": "shopify:\/\/shop_images\/download.png",
+          "logo_max_width": 100,
+          "logo_height": 36,
+          "mobile_padding": 15,
+          "search_style": "icon",
+          "show_search_bar_mobile": true,
+          "navigation_type": "simple",
+          "header_main_linklist": "main-menu",
+          "sticky_menu": true,
+          "heading_content": "none",
+          "head_font_size": 14,
+          "header_top_linklist": "",
+          "header_top_text": "",
+          "header_phone": "+34 627 38 94 72",
+          "header_email": "support@techcitystore.com"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "1483746503941": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "footer"
+            }
+          },
+          "1551869370557": {
+            "type": "linklist",
+            "settings": {
+              "linklist": "store-information"
+            }
+          },
+          "1483746535482": {
+            "type": "text",
+            "settings": {
+              "title": "About Us",
+              "text": "<p><img width=\"100\" src=\"\/\/cdn.shopify.com\/s\/files\/1\/0789\/6727\/5828\/files\/download_200x.png?v=1688471893\" alt=\"Techcity Store\"><br><\/p>\nTechcity Store\n<br>Calle Concordia 1 4k, \n<br>TORREVIEJA, Alicante\n<br>03181, SPAIN\n<br>\n\n\n<p>\n<br>\n<b>Customer Support:<\/b> \n<br>\n<b>Email:<\/b> <a href=\"mailto:support@techcitystore.com\">support@techcitystore.com<\/a><br>\n<b>Phone:<\/b> +34 627 38 94 72\n<br>\n<b>Hours: <\/b>9:00 am - 17:30\n<\/p>"
+            }
+          },
+          "1483746512156": {
+            "type": "newsletter",
+            "settings": {
+              "text": "Sign up for our newsletter and be the first to know about coupons and special promotions.",
+              "footer_display_social": true,
+              "gdpr_newsletter_text": "You may unsubscribe at any moment. For that purpose, please find our contact info in the legal notice."
+            }
+          }
+        },
+        "block_order": [
+          "1483746503941",
+          "1551869370557",
+          "1483746535482",
+          "1483746512156"
+        ],
+        "settings": {
+          "show_payment_methods": true
+        }
+      },
+      "article": {
+        "type": "article",
+        "settings": {
+          "show_sidebar_recent_posts": false,
+          "show_sidebar_blog_tags": false
+        }
+      },
+      "collection": {
+        "type": "collection",
+        "settings": {
+          "product_grid_layout": 3,
+          "pagination_limit": 12,
+          "use_infinite_scroll": true,
+          "show_featured_image": false,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": true,
+          "show_product_reviews_stars": false,
+          "show_collection_sidebar": true,
+          "collection_sidebar_filters": "groups",
+          "group_array": "Price,Brand,Colour,Capacity,Dimensions,Quantity,Size,Sex,Design,FootSize,Measurement,Количество,Množství,Aantal,Antal,Antall,Menge,Ποσότητα,Kogus,Määrä,Quantité,Količina,Mennyiség,Quantità,Kiekis,Daudzums,Hoeveelheid,Mengde,Ilość,Cantidad,Quantidade,Cantitate,Количество,Množstvo,Mарка,Značka,Marke,σημάδι,Marca,Märk,Merkki,Marque,Marke,Jel,Gamintojas,Zīmols,Merk,Mark,Marka,марка,Blagovnaznamka,Značka,Цена,Cena,Pris,Preis,Τιμή,Price,Precio,Hind,Hinta,Prix,Cijena,Ár,Prezzo,Kaina,Prijs,Preço,Preț,Цена,Talla,Taille ,Größe,Tamanho,Μέγεθος,Veličina,Taglia,Suurus,Koko,Mărime,Méret,Veľkosť,Dydis,Izmērs,Rozmiar,Maat,Размер,Størrelse,Storlek,Velikost,Sexo,Sexe,Genere,Sugu,Spol,Seksas,Dzimums,Geslacht,Пол,Pohlaví,Diseño,Σχέδιο,Kujundus,Muotoilu,Minta,Dizajn,Oblika,Dizainas,Dizains,Model,Ontwerp,Дизайн,Design,Capacidad,Capacité,Kapazität,Capacidade,Χωρητικότητα,Capacità,Maht,Kapasiteetti,Capacitate,Капацитет,Kapacitás,Kapacita,Kapaciteta,Talpa,Tilpums,Pojemność,Inhoud,Емкость,Kapasitet,Kapacitet,Objem,Color,Couleur,Farbe,Cor,Χρώμα,Boja,Colore,Värvus,Farve,Väri,Culoare,Цвят,Szín,Farba,Barva,Spalva,Krāsa,Kolor,Kleur,Цвет,Farge,Färg,Barva",
+          "collection_link_list": "",
+          "show_sidebar_collections": false,
+          "show_sidebar_vendors": false,
+          "sidebar_collection_sale_collection": "",
+          "sidebar_collection_product_count": 4
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "settings": {
+          "pagination_limit": 4,
+          "use_infinite_scroll": false,
+          "show_featured_image": false,
+          "show_grid_type": false,
+          "show_smart_checkout": true,
+          "show_collection_sidebar": true,
+          "collection_sidebar_filters": "groups",
+          "group_array": "Price,brand",
+          "collection_link_list": "",
+          "show_sidebar_collections": false,
+          "show_sidebar_vendors": false,
+          "sidebar_collection_sale_collection": "",
+          "sidebar_collection_product_count": 4
+        }
+      },
+      "blog-posts": {
+        "type": "blog-posts",
+        "disabled": true,
+        "settings": {
+          "title": "From the Blog",
+          "recent-post-blog": "news",
+          "home_post_count": 2,
+          "home_blog_excerpt": false
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "8bde8737-3022-4d51-97ad-307a161797cc": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/computers_4fc55abb-f686-4840-8283-05b9a9b9af29.jpg",
+              "slideshow_caption_val": 40,
+              "title": "Laptops | Notebooks",
+              "slideshow_subtitle": "<p>    <\/p>",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "See Laptops",
+              "slideshow_link": "shopify:\/\/collections\/computer-hardware",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "9d2f5305-29ff-43c8-bf75-ed87dd09b700": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/smartwatches-2.jpg",
+              "slideshow_caption_val": 40,
+              "title": "SMARTWATCHES",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "See Smartwatches",
+              "slideshow_link": "shopify:\/\/collections\/smartwatches",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "slideshow-1": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/monitors.jpg",
+              "slideshow_caption_val": 60,
+              "title": "Monitors | Supports",
+              "slideshow_subtitle": "<p>    <\/p>",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "See Monitors & Supports",
+              "slideshow_link": "shopify:\/\/collections\/monitors",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "1556266350667": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/computer_cables.jpg",
+              "slideshow_caption_val": 40,
+              "title": "HDMI Cables | Hubs",
+              "slideshow_subtitle": "<p>             <\/p>",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "See Cables & Hubs",
+              "slideshow_link": "shopify:\/\/collections\/computer-cables-adapters",
+              "slideshow_caption_position": "right"
+            }
+          },
+          "slideshow-0": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/computers_and_electronics.jpg",
+              "slideshow_caption_val": 40,
+              "title": "Computers | Electronics",
+              "slideshow_subtitle": "<p>    <\/p>",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "See all",
+              "slideshow_link": "shopify:\/\/collections\/computers-electronics",
+              "slideshow_caption_position": "center"
+            }
+          }
+        },
+        "block_order": [
+          "8bde8737-3022-4d51-97ad-307a161797cc",
+          "9d2f5305-29ff-43c8-bf75-ed87dd09b700",
+          "slideshow-1",
+          "1556266350667",
+          "slideshow-0"
+        ],
+        "disabled": true,
+        "settings": {
+          "slideshow_width": "full",
+          "animation_speed": 7,
+          "slider_heading_size": 36,
+          "slider_sub_heading_size": 24,
+          "slider_content_size": 18,
+          "sd_heading_color": "#ffffff",
+          "sd_line_color": "#fbcf00",
+          "sd_sub_heading_color": "#ffffff",
+          "sd_text_color": "#ffffff"
+        }
+      },
+      "product": {
+        "type": "product",
+        "settings": {
+          "show_product_cart_postion": "bottom",
+          "show_smart_checkout": true,
+          "enable_description_enhancements": true,
+          "product_reviews": false,
+          "show_product_swatches": true,
+          "show_product_zoom": false,
+          "show_product_sku": false,
+          "show_product_vendor": false,
+          "show_product_quantity": true,
+          "show_product_tags": false,
+          "product_additional_img": "carousel",
+          "enable_images_limit": true,
+          "images_limit_height": 500,
+          "show_product_tab_1": false,
+          "tab_1_title": "TAB 1",
+          "product_tab_1_page": "garantia",
+          "show_product_tab_2": false,
+          "tab_2_title": "TAB 2",
+          "product_tab_2_page": "dispatch-within-24-to-48-hours",
+          "show_product_tab_3": false,
+          "tab_3_title": "TAB 3",
+          "product_tab_3_page": "",
+          "show_product_tab_4": false,
+          "tab_4_title": "TAB 4",
+          "product_tab_4_page": "",
+          "related_products": true,
+          "show_sale_badge": true,
+          "collection_overlay": true,
+          "show_product_reviews_stars": false
+        }
+      },
+      "contact-page": {
+        "type": "contact-page",
+        "settings": {
+          "show_google_map": false,
+          "heading": "Store name",
+          "address": "<p>Calle Concordia 1 4k, TORREVIEJA, Alicante 03181, Spain<\/p><p>Customer Support: 9:00am to 500pm<\/p>",
+          "map_address": "Calle Concordia 1 4k, TORREVIEJA, Alicante 03181, Spain",
+          "button_text": "Get directions",
+          "show_pin": true,
+          "api_key": "",
+          "background_image_position": "center center"
+        }
+      },
+      "icon-buttons": {
+        "type": "icon-buttons",
+        "blocks": {
+          "1554889341114": {
+            "type": "text",
+            "settings": {
+              "cta_text": "Dispatch in 24\/48 hours",
+              "cta_icon": "truck",
+              "cta_link": "shopify:\/\/pages\/dispatch-within-24-to-48-hours"
+            }
+          },
+          "1554889371689": {
+            "type": "text",
+            "settings": {
+              "cta_text": "Delivery Tracking",
+              "cta_icon": "search",
+              "cta_link": "shopify:\/\/pages\/delivery-tracking"
+            }
+          },
+          "1554889427449": {
+            "type": "text",
+            "settings": {
+              "cta_text": "100% Secure payment",
+              "cta_icon": "credit-card",
+              "cta_link": "shopify:\/\/pages\/100-secured-payment"
+            }
+          },
+          "1554889455579": {
+            "type": "text",
+            "settings": {
+              "cta_text": "2 years waranty",
+              "cta_icon": "thumbs-up",
+              "cta_link": "shopify:\/\/pages\/two-years-guarantee"
+            }
+          }
+        },
+        "block_order": [
+          "1554889341114",
+          "1554889371689",
+          "1554889427449",
+          "1554889455579"
+        ],
+        "settings": {
+          "ctab_bg_color": "#ffffff",
+          "ctab_heading_color": "#282727",
+          "ctab_link_color": "#107fa8",
+          "ctab_border_color": "rgba(0,0,0,0)"
+        }
+      },
+      "1551862800868": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Smart TV Highlights",
+          "featured_collection": "televisions-and-smart-tvs",
+          "home_feature_product_grid_type": "grid",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 8,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": true,
+          "show_product_reviews_stars": false
+        }
+      },
+      "blog": {
+        "type": "blog",
+        "settings": {
+          "blog_count": 4,
+          "blog_layout": "full",
+          "show_sidebar_recent_posts": false,
+          "show_sidebar_blog_tags": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "blocks": {
+          "a96beb36-afa0-45de-8fa9-9db2dc6e7cdf": {
+            "type": "collection",
+            "settings": {
+              "collection": "computers-electronics"
+            }
+          },
+          "6fd74d48-31d7-4cb6-9d84-0d4317c25401": {
+            "type": "collection",
+            "settings": {
+              "collection": "console-accessories"
+            }
+          },
+          "6a2e8948-a63f-4495-bca4-cfc045bbc814": {
+            "type": "collection",
+            "settings": {
+              "collection": "consoles"
+            }
+          },
+          "31c74c4c-e19c-4d35-8a67-ce2d095d7420": {
+            "type": "collection",
+            "settings": {
+              "collection": "computer-cables-adapters"
+            }
+          },
+          "c5e63e7a-0412-4533-9872-5d05c34926d1": {
+            "type": "collection",
+            "settings": {
+              "collection": "computer-gaming"
+            }
+          },
+          "c6c6e0f1-63f4-4146-afce-c4853d348a47": {
+            "type": "collection",
+            "settings": {
+              "collection": "monitors"
+            }
+          },
+          "d8d176dc-3c57-4318-8b83-d94c0ae4b80e": {
+            "type": "collection",
+            "settings": {
+              "collection": "mobile-phones"
+            }
+          },
+          "3959de68-7a75-4cae-bedf-14e9420244bd": {
+            "type": "collection",
+            "settings": {
+              "collection": "televisions-and-smart-tvs"
+            }
+          },
+          "0dd0a4c3-0ed1-435b-bc43-bdea31f59fe1": {
+            "type": "collection",
+            "settings": {
+              "collection": "smartwatches"
+            }
+          },
+          "ebb01fb2-1ee8-4f65-8f16-737ee1062943": {
+            "type": "collection",
+            "settings": {
+              "collection": "computer-hardware"
+            }
+          },
+          "804fb890-c7bb-4605-b0e9-ccea723cd997": {
+            "type": "collection",
+            "settings": {
+              "collection": "wifi-networks"
+            }
+          },
+          "c93c1895-19bf-41e9-88d1-1a392a68f76c": {
+            "type": "collection",
+            "settings": {
+              "collection": "computer-networks-and-components"
+            }
+          },
+          "79c618d5-4c43-499c-8196-2374e22623c7": {
+            "type": "collection",
+            "settings": {
+              "collection": "desktop-pc"
+            }
+          },
+          "ca129f80-71ef-481e-a58e-e82c6b3b38ee": {
+            "type": "collection",
+            "settings": {
+              "collection": "drones-and-robots"
+            }
+          },
+          "fde7d2a7-54a6-4e6d-a756-6c0a011bcf7f": {
+            "type": "collection",
+            "settings": {
+              "collection": "cd-and-dvd"
+            }
+          },
+          "1b365449-ae68-490e-b526-e6456caa937a": {
+            "type": "collection",
+            "settings": {
+              "collection": "dvd"
+            }
+          },
+          "6015dfa7-1684-4517-989a-21b9078ee903": {
+            "type": "collection",
+            "settings": {
+              "collection": "electric-scooters"
+            }
+          },
+          "ca795d73-cc11-432d-a4d8-416f2733f04b": {
+            "type": "collection",
+            "settings": {
+              "collection": "electronics-peripherals-and-spares"
+            }
+          },
+          "c3b98140-bc28-41d0-ab33-3556eb491382": {
+            "type": "collection",
+            "settings": {
+              "collection": "electronics-phones-tablets"
+            }
+          },
+          "d5aaad71-c9f2-4e09-ac3c-8d08b9938329": {
+            "type": "collection",
+            "settings": {
+              "collection": "everything-tech"
+            }
+          },
+          "1366e849-a02a-4a60-9b72-4c18409ec8eb": {
+            "type": "collection",
+            "settings": {
+              "collection": "fixed-and-ip-phones"
+            }
+          },
+          "ef033ef5-98c8-4588-9ebf-5aea8e517167": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-accessories"
+            }
+          },
+          "ea94a611-1598-40be-8f75-69fbce0f7595": {
+            "type": "collection",
+            "settings": {
+              "collection": "gamepad"
+            }
+          },
+          "b9c23c67-8278-423c-ac3c-800ac08cf786": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-keyboards"
+            }
+          },
+          "ed6541fe-c837-4cda-83c9-33857b7e143c": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-headphones"
+            }
+          },
+          "9f0ab94a-5a64-40ec-b12a-a62992bb5a3d": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-graphics-cards"
+            }
+          },
+          "9ad19c76-ad1d-4e2b-be98-72e6831e8d3c": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-fans-and-cooling"
+            }
+          },
+          "e4fafd9d-7bf9-4ffe-bb20-c5bc7b081074": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-chargers"
+            }
+          },
+          "ee9fab15-9eaa-48c3-9f53-2322c1007a32": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-mice-and-mouse-mats"
+            }
+          },
+          "f24fd061-1ea2-4557-be5a-3fcc9cf70dad": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-motherboards"
+            }
+          },
+          "88307f98-6674-4433-aa21-577cb09bf5c0": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-power-supplies"
+            }
+          },
+          "a17e8ba7-a055-4fef-9c4e-8287b4819623": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-soundcards"
+            }
+          },
+          "cb7e6e45-7b85-4ba8-a4b0-4e69b8c8e460": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-speakers"
+            }
+          },
+          "7a94d968-7a99-444e-9030-5c7f9a87e6d6": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-system-units"
+            }
+          },
+          "313c578c-1f3a-4c14-973d-13a86b5bc7c3": {
+            "type": "collection",
+            "settings": {
+              "collection": "gps-navigator"
+            }
+          },
+          "f82297e4-c72b-4821-8ab8-8ee1c37c6559": {
+            "type": "collection",
+            "settings": {
+              "collection": "graphics-cards"
+            }
+          },
+          "eac7c6b7-c390-4691-bfeb-9a3b4036b617": {
+            "type": "collection",
+            "settings": {
+              "collection": "headphones-with-microphone"
+            }
+          },
+          "1df4f0e3-1cac-450c-9a9f-e86a3939a501": {
+            "type": "collection",
+            "settings": {
+              "collection": "headphones"
+            }
+          },
+          "b7c05415-e29e-49d6-859e-cda1900baaf1": {
+            "type": "collection",
+            "settings": {
+              "collection": "wireless-headphones"
+            }
+          },
+          "64c9d034-e6d4-4c55-989a-54272f7cb96b": {
+            "type": "collection",
+            "settings": {
+              "collection": "hard-disks"
+            }
+          },
+          "044ef9c2-1dd4-4c32-8528-5b8c8b131b2e": {
+            "type": "collection",
+            "settings": {
+              "collection": "heart-rate-monitors"
+            }
+          },
+          "a79bb1cc-6558-457a-994a-bf888a5fc0c7": {
+            "type": "collection",
+            "settings": {
+              "collection": "home-cinema"
+            }
+          },
+          "9b3a1303-b4fe-44b1-a19d-a32376ea568c": {
+            "type": "collection",
+            "settings": {
+              "collection": "heating-and-cooling"
+            }
+          },
+          "d3ded5a6-9798-4a77-a1c8-ddaf37817b5c": {
+            "type": "collection",
+            "settings": {
+              "collection": "in-ear-headphones"
+            }
+          },
+          "01192e8c-d799-4181-bfdb-266b43f11c9c": {
+            "type": "collection",
+            "settings": {
+              "collection": "interactive-boards"
+            }
+          },
+          "73a8637a-74f5-45cc-aebd-77e6df61c4dc": {
+            "type": "collection",
+            "settings": {
+              "collection": "it-accessories"
+            }
+          },
+          "b4445cd2-2078-442f-873b-6f0bd9b32f48": {
+            "type": "collection",
+            "settings": {
+              "collection": "keyboards"
+            }
+          },
+          "d0874d82-0a6a-4586-9e00-6b97287c9142": {
+            "type": "collection",
+            "settings": {
+              "collection": "gaming-keyboards"
+            }
+          },
+          "8b103f6b-1e00-4a44-81c1-e7ec43cf8a83": {
+            "type": "collection",
+            "settings": {
+              "collection": "kvm-switch"
+            }
+          },
+          "67e20c2e-6fbc-406c-83ab-ecfc8d90054f": {
+            "type": "collection",
+            "settings": {
+              "collection": "laptop-coolers"
+            }
+          },
+          "4757300e-a7de-48a4-9937-7629af69124f": {
+            "type": "collection",
+            "settings": {
+              "collection": "led-lighting"
+            }
+          },
+          "f2c03e3e-f93d-4be2-ac40-c99ce30f659c": {
+            "type": "collection",
+            "settings": {
+              "collection": "men-s-watches"
+            }
+          },
+          "5111b9bc-2184-4a61-97d6-64e1655bd529": {
+            "type": "collection",
+            "settings": {
+              "collection": "microphones-and-headphones"
+            }
+          },
+          "77e06e6f-d530-42f3-85f9-3287661d5018": {
+            "type": "collection",
+            "settings": {
+              "collection": "mini-pc"
+            }
+          },
+          "1d7ee97b-d5b5-41cf-ab1c-791a912da21e": {
+            "type": "collection",
+            "settings": {
+              "collection": "mobile-and-tablet-stands"
+            }
+          },
+          "3f45d081-b81f-4cfc-8169-e832a95b1d50": {
+            "type": "collection",
+            "settings": {
+              "collection": "accessories-for-mobile-phones-and-tablets"
+            }
+          },
+          "a371e618-8cf2-4302-b0a5-0701ab2a3eec": {
+            "type": "collection",
+            "settings": {
+              "collection": "mobile-phone-cases"
+            }
+          },
+          "c97c73c3-443c-4e06-8e2e-25cdf94c6c0d": {
+            "type": "collection",
+            "settings": {
+              "collection": "motherboards"
+            }
+          },
+          "a25d6053-aafb-4d3d-a505-3863505fcf55": {
+            "type": "collection",
+            "settings": {
+              "collection": "mouse-pads-and-mouse"
+            }
+          },
+          "22715d97-b5b3-4441-91ae-fe70d6fdfe56": {
+            "type": "collection",
+            "settings": {
+              "collection": "mp3-mp4-and-mp5"
+            }
+          },
+          "879d8da1-7dbd-4a31-9ff7-8b4ab48ee260": {
+            "type": "collection",
+            "settings": {
+              "collection": "music-equipment"
+            }
+          },
+          "e263a821-8b30-4ed9-8136-fc9b0bdba00f": {
+            "type": "collection",
+            "settings": {
+              "collection": "notebooks-and-ultrabooks"
+            }
+          },
+          "96198313-b986-4053-b5f3-981a47b32e9d": {
+            "type": "collection",
+            "settings": {
+              "collection": "network-cables"
+            }
+          },
+          "11e9c639-c7b4-4158-a209-2b75491e7de4": {
+            "type": "collection",
+            "settings": {
+              "collection": "offers-refurbished"
+            }
+          },
+          "5429afce-f358-4ccf-bff2-a076963690ea": {
+            "type": "collection",
+            "settings": {
+              "collection": "original-gadgets"
+            }
+          },
+          "d668a9be-5e0e-4e79-b8b8-767a2d5b3fa1": {
+            "type": "collection",
+            "settings": {
+              "collection": "original-ink-cartridges"
+            }
+          },
+          "7ccff0ef-ed58-473e-8cfb-41f064066bec": {
+            "type": "collection",
+            "settings": {
+              "collection": "original-toners"
+            }
+          },
+          "0a4ad19d-fe4f-41e6-adc2-7f61a44949d6": {
+            "type": "collection",
+            "settings": {
+              "collection": "pc-chargers"
+            }
+          },
+          "0ca6161b-5936-4b62-b27b-03c449e9308a": {
+            "type": "collection",
+            "settings": {
+              "collection": "pc-speakers"
+            }
+          },
+          "9ad08f80-dda1-4e75-99a3-67ddf8a58048": {
+            "type": "collection",
+            "settings": {
+              "collection": "pci-cards"
+            }
+          },
+          "253358c7-95f4-4fa6-b8d2-c0146ac62307": {
+            "type": "collection",
+            "settings": {
+              "collection": "pos-and-accessories"
+            }
+          },
+          "0fa62412-93f7-47a3-a1e6-a174f577a4fe": {
+            "type": "collection",
+            "settings": {
+              "collection": "power-bank"
+            }
+          },
+          "7aaa469b-f29e-43d1-8b0e-40be7fdf88ef": {
+            "type": "collection",
+            "settings": {
+              "collection": "power-cables"
+            }
+          },
+          "0d67f809-b673-46cb-9e9b-29c5c93d83f1": {
+            "type": "collection",
+            "settings": {
+              "collection": "power-strips"
+            }
+          },
+          "4c226b45-26c0-4826-b263-e690d85d3b6c": {
+            "type": "collection",
+            "settings": {
+              "collection": "power-supplies"
+            }
+          },
+          "47c083a5-0f77-4da4-abde-5ae00af1ad98": {
+            "type": "collection",
+            "settings": {
+              "collection": "printer-paper"
+            }
+          },
+          "340db8e3-83f9-44c9-ad1a-b5c910a51351": {
+            "type": "collection",
+            "settings": {
+              "collection": "3d-printers"
+            }
+          },
+          "58162002-ea55-4307-b9dc-50e44ab32a81": {
+            "type": "collection",
+            "settings": {
+              "collection": "projectors"
+            }
+          },
+          "47a4803f-c5c2-4fd4-96aa-c87b852aa27b": {
+            "type": "collection",
+            "settings": {
+              "collection": "radio-cd"
+            }
+          },
+          "85c46c88-29a6-4d87-88d7-9ddfa54fde5e": {
+            "type": "collection",
+            "settings": {
+              "collection": "rechargeable-batteries"
+            }
+          },
+          "419f26a1-ba7e-4c20-96b7-48ed5d62e7b6": {
+            "type": "collection",
+            "settings": {
+              "collection": "tv-stands"
+            }
+          },
+          "37b68c7a-cd07-4e4f-ad9c-a620b01964d1": {
+            "type": "collection",
+            "settings": {
+              "collection": "webcam"
+            }
+          },
+          "86d40b0c-2686-4df9-a702-ac8613e1e4b5": {
+            "type": "collection",
+            "settings": {
+              "collection": "virtual-reality-glasses"
+            }
+          },
+          "985b41a3-6ef3-447d-8649-f37f803e28b6": {
+            "type": "collection",
+            "settings": {
+              "collection": "vehicle-accessories"
+            }
+          },
+          "8c3fad11-9333-4db9-8821-ee09de9795f1": {
+            "type": "collection",
+            "settings": {
+              "collection": "vehicle-accessories-and-organisers"
+            }
+          },
+          "7b0bf7c2-ce01-4b66-a177-b27b4fa6cf7d": {
+            "type": "collection",
+            "settings": {
+              "collection": "vehicles-circuits-and-radio-control"
+            }
+          },
+          "9f18c706-f906-43ff-83bb-152040121d31": {
+            "type": "collection",
+            "settings": {
+              "collection": "video-games"
+            }
+          },
+          "73cbfd39-6740-486a-a6b4-7d3ce9a25b79": {
+            "type": "collection",
+            "settings": {
+              "collection": "computers-electronics-electronics-sound-electronics-sound-video-and-home-cinema"
+            }
+          },
+          "17f2380b-8a9a-4ecf-b16e-17c05704a1f9": {
+            "type": "collection",
+            "settings": {
+              "collection": "transistor-radios"
+            }
+          },
+          "b5a883b8-59b5-4bd4-8d44-dc3d1fbe79ed": {
+            "type": "collection",
+            "settings": {
+              "collection": "turntable"
+            }
+          },
+          "0de045a1-c147-40ac-adfa-25b80e7c2ecd": {
+            "type": "collection",
+            "settings": {
+              "collection": "sports-headphones"
+            }
+          },
+          "a96a2cf7-416f-4ba9-9814-e00b5b354eb8": {
+            "type": "collection",
+            "settings": {
+              "collection": "streaming-tv"
+            }
+          },
+          "62638876-952c-4f3f-af9c-ede84f3832cb": {
+            "type": "collection",
+            "settings": {
+              "collection": "tablets"
+            }
+          },
+          "df98cba1-7058-43ca-adcc-3c81bc0d9bac": {
+            "type": "collection",
+            "settings": {
+              "collection": "scanners"
+            }
+          },
+          "a6057471-8c6b-4447-a137-3fb028fd6835": {
+            "type": "collection",
+            "settings": {
+              "collection": "screen-mounts"
+            }
+          },
+          "0e582f23-6b77-414e-8773-d74ae95da685": {
+            "type": "collection",
+            "settings": {
+              "collection": "servers"
+            }
+          }
+        },
+        "block_order": [
+          "a96beb36-afa0-45de-8fa9-9db2dc6e7cdf",
+          "6fd74d48-31d7-4cb6-9d84-0d4317c25401",
+          "6a2e8948-a63f-4495-bca4-cfc045bbc814",
+          "31c74c4c-e19c-4d35-8a67-ce2d095d7420",
+          "c5e63e7a-0412-4533-9872-5d05c34926d1",
+          "c6c6e0f1-63f4-4146-afce-c4853d348a47",
+          "d8d176dc-3c57-4318-8b83-d94c0ae4b80e",
+          "3959de68-7a75-4cae-bedf-14e9420244bd",
+          "0dd0a4c3-0ed1-435b-bc43-bdea31f59fe1",
+          "ebb01fb2-1ee8-4f65-8f16-737ee1062943",
+          "804fb890-c7bb-4605-b0e9-ccea723cd997",
+          "c93c1895-19bf-41e9-88d1-1a392a68f76c",
+          "79c618d5-4c43-499c-8196-2374e22623c7",
+          "ca129f80-71ef-481e-a58e-e82c6b3b38ee",
+          "fde7d2a7-54a6-4e6d-a756-6c0a011bcf7f",
+          "1b365449-ae68-490e-b526-e6456caa937a",
+          "6015dfa7-1684-4517-989a-21b9078ee903",
+          "ca795d73-cc11-432d-a4d8-416f2733f04b",
+          "c3b98140-bc28-41d0-ab33-3556eb491382",
+          "d5aaad71-c9f2-4e09-ac3c-8d08b9938329",
+          "1366e849-a02a-4a60-9b72-4c18409ec8eb",
+          "ef033ef5-98c8-4588-9ebf-5aea8e517167",
+          "ea94a611-1598-40be-8f75-69fbce0f7595",
+          "b9c23c67-8278-423c-ac3c-800ac08cf786",
+          "ed6541fe-c837-4cda-83c9-33857b7e143c",
+          "9f0ab94a-5a64-40ec-b12a-a62992bb5a3d",
+          "9ad19c76-ad1d-4e2b-be98-72e6831e8d3c",
+          "e4fafd9d-7bf9-4ffe-bb20-c5bc7b081074",
+          "ee9fab15-9eaa-48c3-9f53-2322c1007a32",
+          "f24fd061-1ea2-4557-be5a-3fcc9cf70dad",
+          "88307f98-6674-4433-aa21-577cb09bf5c0",
+          "a17e8ba7-a055-4fef-9c4e-8287b4819623",
+          "cb7e6e45-7b85-4ba8-a4b0-4e69b8c8e460",
+          "7a94d968-7a99-444e-9030-5c7f9a87e6d6",
+          "313c578c-1f3a-4c14-973d-13a86b5bc7c3",
+          "f82297e4-c72b-4821-8ab8-8ee1c37c6559",
+          "eac7c6b7-c390-4691-bfeb-9a3b4036b617",
+          "1df4f0e3-1cac-450c-9a9f-e86a3939a501",
+          "b7c05415-e29e-49d6-859e-cda1900baaf1",
+          "64c9d034-e6d4-4c55-989a-54272f7cb96b",
+          "044ef9c2-1dd4-4c32-8528-5b8c8b131b2e",
+          "a79bb1cc-6558-457a-994a-bf888a5fc0c7",
+          "9b3a1303-b4fe-44b1-a19d-a32376ea568c",
+          "d3ded5a6-9798-4a77-a1c8-ddaf37817b5c",
+          "01192e8c-d799-4181-bfdb-266b43f11c9c",
+          "73a8637a-74f5-45cc-aebd-77e6df61c4dc",
+          "b4445cd2-2078-442f-873b-6f0bd9b32f48",
+          "d0874d82-0a6a-4586-9e00-6b97287c9142",
+          "8b103f6b-1e00-4a44-81c1-e7ec43cf8a83",
+          "67e20c2e-6fbc-406c-83ab-ecfc8d90054f",
+          "4757300e-a7de-48a4-9937-7629af69124f",
+          "f2c03e3e-f93d-4be2-ac40-c99ce30f659c",
+          "5111b9bc-2184-4a61-97d6-64e1655bd529",
+          "77e06e6f-d530-42f3-85f9-3287661d5018",
+          "1d7ee97b-d5b5-41cf-ab1c-791a912da21e",
+          "3f45d081-b81f-4cfc-8169-e832a95b1d50",
+          "a371e618-8cf2-4302-b0a5-0701ab2a3eec",
+          "c97c73c3-443c-4e06-8e2e-25cdf94c6c0d",
+          "a25d6053-aafb-4d3d-a505-3863505fcf55",
+          "22715d97-b5b3-4441-91ae-fe70d6fdfe56",
+          "879d8da1-7dbd-4a31-9ff7-8b4ab48ee260",
+          "e263a821-8b30-4ed9-8136-fc9b0bdba00f",
+          "96198313-b986-4053-b5f3-981a47b32e9d",
+          "11e9c639-c7b4-4158-a209-2b75491e7de4",
+          "5429afce-f358-4ccf-bff2-a076963690ea",
+          "d668a9be-5e0e-4e79-b8b8-767a2d5b3fa1",
+          "7ccff0ef-ed58-473e-8cfb-41f064066bec",
+          "0a4ad19d-fe4f-41e6-adc2-7f61a44949d6",
+          "0ca6161b-5936-4b62-b27b-03c449e9308a",
+          "9ad08f80-dda1-4e75-99a3-67ddf8a58048",
+          "253358c7-95f4-4fa6-b8d2-c0146ac62307",
+          "0fa62412-93f7-47a3-a1e6-a174f577a4fe",
+          "7aaa469b-f29e-43d1-8b0e-40be7fdf88ef",
+          "0d67f809-b673-46cb-9e9b-29c5c93d83f1",
+          "4c226b45-26c0-4826-b263-e690d85d3b6c",
+          "47c083a5-0f77-4da4-abde-5ae00af1ad98",
+          "340db8e3-83f9-44c9-ad1a-b5c910a51351",
+          "58162002-ea55-4307-b9dc-50e44ab32a81",
+          "47a4803f-c5c2-4fd4-96aa-c87b852aa27b",
+          "85c46c88-29a6-4d87-88d7-9ddfa54fde5e",
+          "419f26a1-ba7e-4c20-96b7-48ed5d62e7b6",
+          "37b68c7a-cd07-4e4f-ad9c-a620b01964d1",
+          "86d40b0c-2686-4df9-a702-ac8613e1e4b5",
+          "985b41a3-6ef3-447d-8649-f37f803e28b6",
+          "8c3fad11-9333-4db9-8821-ee09de9795f1",
+          "7b0bf7c2-ce01-4b66-a177-b27b4fa6cf7d",
+          "9f18c706-f906-43ff-83bb-152040121d31",
+          "73cbfd39-6740-486a-a6b4-7d3ce9a25b79",
+          "17f2380b-8a9a-4ecf-b16e-17c05704a1f9",
+          "b5a883b8-59b5-4bd4-8d44-dc3d1fbe79ed",
+          "0de045a1-c147-40ac-adfa-25b80e7c2ecd",
+          "a96a2cf7-416f-4ba9-9814-e00b5b354eb8",
+          "62638876-952c-4f3f-af9c-ede84f3832cb",
+          "df98cba1-7058-43ca-adcc-3c81bc0d9bac",
+          "a6057471-8c6b-4447-a137-3fb028fd6835",
+          "0e582f23-6b77-414e-8773-d74ae95da685"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+          "display_type": "all",
+          "sort": "products_high",
+          "product_grid_layout": 4,
+          "show_item_count": false
+        }
+      },
+      "1553609452943": {
+        "type": "featured-collection",
+        "disabled": true,
+        "settings": {
+          "title": "Featured Mobile Accessories",
+          "featured_collection": "accessories-for-mobile-phones-and-tablets",
+          "home_feature_product_grid_type": "carousel",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 12,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "1556104982242": {
+        "type": "gallery",
+        "blocks": {
+          "1556104982242-0": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/smartwatches_collection_6edbdcb6-9f4c-4d48-a4c5-7689ced582f1.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>Smartwatches<\/p><p><\/p>",
+              "promo_banner_subtext": "<p>- men & women<\/p>",
+              "promo_banner_link": "shopify:\/\/collections\/smartwatches"
+            }
+          },
+          "1556104982242-1": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/cables_and_hubs_collection.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>Tech Cables | Hubs<\/p><p><\/p>",
+              "promo_banner_subtext": "<p>- all types<\/p>",
+              "promo_banner_link": "shopify:\/\/collections\/computer-cables-adapters"
+            }
+          },
+          "1556105128787": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/news-smart-tvs.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>smart TVs<\/p>",
+              "promo_banner_subtext": "<p>- 24\", 55\", 49\", 75\"...<\/p>",
+              "promo_banner_link": "shopify:\/\/collections\/televisions-and-smart-tvs"
+            }
+          }
+        },
+        "block_order": [
+          "1556104982242-0",
+          "1556104982242-1",
+          "1556105128787"
+        ],
+        "settings": {
+        }
+      },
+      "1556105135758": {
+        "type": "gallery",
+        "blocks": {
+          "1556105135758-0": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/new-laptops-office-or-gaming.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>Laptops<\/p><p><\/p>",
+              "promo_banner_subtext": "",
+              "promo_banner_link": "https:\/\/www.techcitystore.com\/collections\/notebooks-and-ultrabooks?sort_by=best-selling"
+            }
+          },
+          "1556105135758-1": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/new-gaming-and-office-monitors.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>Monitors | Widescreen<\/p><p><\/p>",
+              "promo_banner_subtext": "",
+              "promo_banner_link": "shopify:\/\/collections\/monitors"
+            }
+          }
+        },
+        "block_order": [
+          "1556105135758-0",
+          "1556105135758-1"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+        }
+      },
+      "5657e349-2d7d-4833-8236-78ef5c0ecf01": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Cables & Adaptors",
+          "featured_collection": "adaptors",
+          "home_feature_product_grid_type": "carousel",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 12,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "page-list-collections": {
+        "type": "page-list-collections",
+        "settings": {
+          "page_link_list": "",
+          "show_sidebar_page_collections": false,
+          "show_page_sidebar_sale": false,
+          "sidebar_page_sale_collection": "",
+          "sidebar_page_product_count": 4
+        }
+      },
+      "page": {
+        "type": "page",
+        "settings": {
+          "page_link_list": "",
+          "show_sidebar_page_collections": false,
+          "show_page_sidebar_sale": false,
+          "sidebar_page_sale_collection": "",
+          "sidebar_page_product_count": 4
+        }
+      },
+      "b3b0028c-a19f-4c78-acc5-5a5b3d07fb5b": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Computers & Tech Hardware",
+          "featured_collection": "computer-hardware",
+          "home_feature_product_grid_type": "grid",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 8,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "7a30f285-4745-4d5b-9544-2e0b01e24436": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Featured Smartwatches",
+          "featured_collection": "smartwatches",
+          "home_feature_product_grid_type": "carousel",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 12,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "35599fa8-e926-44e1-b04c-c781ae1c5205": {
+        "type": "slideshow",
+        "blocks": {
+          "35599fa8-e926-44e1-b04c-c781ae1c5205-slide-2": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/Xiamo_redmi_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/smartphone-xiaomi-redmi-note-12-pro-plus-5g-black-8-gb-ram-octa-core-256-gb-6-67",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "0f95b390-6c0c-4da7-9a45-49faed2e0f51": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/nintendo-switch-gamer.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/television-toshiba",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "35599fa8-e926-44e1-b04c-c781ae1c5205-slide-1": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/iphone_14_059cd17a-029d-4857-8d00-e76eba9156ee.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/es\/search?q=Smartphone+Apple+iPhone+14+5G+OLED+6%2C1%22+A15",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "f9fd40e6-9fac-48ac-b633-94ce16952d63": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/xbox-gaming_5055cde9-390e-4815-a1c1-348db97763dc.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/xbox-series-s-microsoft-rrs-00009",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "14a293eb-9fd4-41c0-b7d1-872350d626be": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/asus-gaming-monitor_2ce026e9-7e4d-42af-9e4e-4ac7ae6e3fa3.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/monitor-asus-vp249qgr-black-full-hd-24",
+              "slideshow_caption_position": "center"
+            }
+          }
+        },
+        "block_order": [
+          "35599fa8-e926-44e1-b04c-c781ae1c5205-slide-2",
+          "0f95b390-6c0c-4da7-9a45-49faed2e0f51",
+          "35599fa8-e926-44e1-b04c-c781ae1c5205-slide-1",
+          "f9fd40e6-9fac-48ac-b633-94ce16952d63",
+          "14a293eb-9fd4-41c0-b7d1-872350d626be"
+        ],
+        "disabled": true,
+        "settings": {
+          "slideshow_width": "full",
+          "animation_speed": 7,
+          "slider_heading_size": 36,
+          "slider_sub_heading_size": 24,
+          "slider_content_size": 18,
+          "sd_heading_color": "#ffffff",
+          "sd_line_color": "#fbcf00",
+          "sd_sub_heading_color": "#ffffff",
+          "sd_text_color": "#ffffff"
+        }
+      },
+      "864e0b8b-a272-4182-b709-ba8365ae25d3": {
+        "type": "slideshow",
+        "blocks": {
+          "98f6ce28-12d7-4e18-9fa4-51a68308a13b": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/mobile_phone_store_desktop.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/mobile_phone_store.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "\/collections\/mobile-phones",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "864e0b8b-a272-4182-b709-ba8365ae25d3-slide-1": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/xbox-gaming_5055cde9-390e-4815-a1c1-348db97763dc.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/xbox_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/xbox-series-s-microsoft-rrs-00009",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "1d203384-1757-4562-985a-b4dfad8ab5e8": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/Xiamo_redmi_12_e484c8bb-2503-4942-82b2-35971fc73aaa.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/Xiamo_redmi_mobile_d235dcbd-baed-431d-a59b-2bdd26bcc6bd.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/smartphone-xiaomi-redmi-note-12-pro-plus-5g-black-8-gb-ram-octa-core-256-gb-6-67",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "12f4df38-77c7-4c26-baf1-bbd755b7e56d": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/49_inch_asus_gaming_monitor_-_mobile_5787623d-8b5a-400b-8ff8-6c92935d08f3.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/asus_monitor_45_inch_monitor_-_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/search?q=ultrawide+full+hd",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "a54b4089-6019-46ff-9d33-4414ac62826b": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/asus-gaming-monitor_2ce026e9-7e4d-42af-9e4e-4ac7ae6e3fa3.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/asus_monitor_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/monitor-asus-vp249qgr-black-full-hd-24",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "991baf43-02de-4cfa-8e91-6e5b85aa8463": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/toshiba-smart-tv_9d8bee59-6b7a-43c7-a59b-39f4c9c460dd.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/toshiba_smart_tv_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/television-toshiba",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "b84710f2-5b81-4040-a735-0e416c3792b3": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/playstation_5_2dff65e2-3718-4562-886a-b4c75d4a0505.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/playstation_5_-_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/search?q=PlayStation+5",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "3744438a-467e-4965-ab31-773eebdbcca4": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/REBAJAS-sales.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/REBAJAS-sales-mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/collections\/techcity",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "0254fed5-e446-4bd4-b957-9aaccd969f81": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/playstation-vr2.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/playstation-vr2-mobile_d825a2d3-f0cd-41d4-a483-1e2e7ac5b635.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/virtual-reality-glasses-sony-playstation-vr2",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "5ad046fd-2b01-4066-9bd9-1c6bdaac6faf": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/nintendo-switch-gamer.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/nintendo_switch_mobile_3e916c56-6d51-4487-b93a-05a8dba0cd4f.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/search?q=nintendo+switch+oled",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "864e0b8b-a272-4182-b709-ba8365ae25d3-slide-2": {
+            "type": "slide",
+            "disabled": true,
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/f1_racing_wheel-gaming.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/raching_wheel_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/products\/racing-steering-wheel-fr-tec-ft7013",
+              "slideshow_caption_position": "center"
+            }
+          }
+        },
+        "block_order": [
+          "98f6ce28-12d7-4e18-9fa4-51a68308a13b",
+          "864e0b8b-a272-4182-b709-ba8365ae25d3-slide-1",
+          "1d203384-1757-4562-985a-b4dfad8ab5e8",
+          "12f4df38-77c7-4c26-baf1-bbd755b7e56d",
+          "a54b4089-6019-46ff-9d33-4414ac62826b",
+          "991baf43-02de-4cfa-8e91-6e5b85aa8463",
+          "b84710f2-5b81-4040-a735-0e416c3792b3",
+          "3744438a-467e-4965-ab31-773eebdbcca4",
+          "0254fed5-e446-4bd4-b957-9aaccd969f81",
+          "5ad046fd-2b01-4066-9bd9-1c6bdaac6faf",
+          "864e0b8b-a272-4182-b709-ba8365ae25d3-slide-2"
+        ],
+        "disabled": true,
+        "settings": {
+          "slideshow_width": "full",
+          "animation_speed": 7,
+          "slider_heading_size": 36,
+          "slider_sub_heading_size": 24,
+          "slider_content_size": 18,
+          "sd_heading_color": "#ffffff",
+          "sd_line_color": "#fbcf00",
+          "sd_sub_heading_color": "#ffffff",
+          "sd_text_color": "#ffffff"
+        }
+      },
+      "39a6794b-3782-483f-8970-42148e4e0157": {
+        "type": "gallery",
+        "blocks": {
+          "e569bd3d-9e2c-4c05-92cd-4ca5ec16c7a5": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/BIG_discount_to_existing_customers_on_checkout_cc1c52a6-8295-4dbb-879f-4986602077b3.jpg",
+              "promo_banner_position": "top",
+              "promo_banner_heading": "<p>  MORE DISCOUNTS FOR EXISTING CUSTOMERS   CLICK HERE !!!<\/p>",
+              "promo_banner_subtext": "",
+              "promo_banner_link": "\/collections\/discounts-for-existing-customers"
+            }
+          }
+        },
+        "block_order": [
+          "e569bd3d-9e2c-4c05-92cd-4ca5ec16c7a5"
+        ],
+        "custom_css": [
+
+        ],
+        "settings": {
+        }
+      },
+      "8039145a-f2a5-464d-beb6-13537f42708a": {
+        "type": "featured-collection",
+        "disabled": true,
+        "settings": {
+          "title": "Fans & Air Conditioners",
+          "featured_collection": "air-conditioning-and-fans",
+          "home_feature_product_grid_type": "carousel",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 12,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "5a705be8-3dc0-4e4d-9075-6770051df3d0": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Best Smart Phones",
+          "featured_collection": "mobile-phones",
+          "home_feature_product_grid_type": "carousel",
+          "home_feature_product_grid_layout": "col-md-3",
+          "home_feature_product_limit": 12,
+          "show_grid_type": false,
+          "show_sale_badge": true,
+          "collection_overlay": false,
+          "show_product_reviews_stars": false
+        }
+      },
+      "fe160405-2450-498a-b6a1-87416904dfb4": {
+        "type": "slideshow",
+        "blocks": {
+          "67b157e4-b420-49b0-b351-f574b44008a6": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/gaming-consoles-and-controllers_21045b7b-c717-4903-a6e9-c0e0ef9a8035.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/gaming-consoles-and-controllers-mobile_e9a29f22-a732-47b0-a9af-5faf194d7025.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/collections\/consoles",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "f8118e43-34e9-433e-9581-b21e4d9c0892": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/computer_cables_370517e7-0e4b-4389-9617-b46dd5a6476c.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/cables_hubs_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "shopify:\/\/collections\/computer-cables-adapters",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "dd932a09-ca45-4a7d-831a-32a20095de60": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/49_inch_asus_gaming_monitor_-_mobile_5787623d-8b5a-400b-8ff8-6c92935d08f3.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/asus_monitor_45_inch_monitor_-_mobile.jpg",
+              "slideshow_caption_val": 20,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "",
+              "slideshow_link": "https:\/\/www.techcitystore.com\/search?q=49%22+monitors+gaming",
+              "slideshow_caption_position": "center"
+            }
+          },
+          "fe160405-2450-498a-b6a1-87416904dfb4-slide-1": {
+            "type": "slide",
+            "settings": {
+              "slideshow_image": "shopify:\/\/shop_images\/heater_posters.jpg",
+              "mobile_image": "shopify:\/\/shop_images\/heater_posters_mobile_d4ecbd22-c8a7-4ab7-94e0-506e009de42d.jpg",
+              "slideshow_caption_val": 0,
+              "title": "",
+              "slideshow_subtitle": "",
+              "slideshow_subsubtitle": "",
+              "slideshow_button_text": "Keep Warm This Christmas",
+              "slideshow_link": "shopify:\/\/collections\/radiators-and-heaters",
+              "slideshow_caption_position": "center"
+            }
+          }
+        },
+        "block_order": [
+          "67b157e4-b420-49b0-b351-f574b44008a6",
+          "f8118e43-34e9-433e-9581-b21e4d9c0892",
+          "dd932a09-ca45-4a7d-831a-32a20095de60",
+          "fe160405-2450-498a-b6a1-87416904dfb4-slide-1"
+        ],
+        "settings": {
+          "slideshow_width": "contained",
+          "animation_speed": 3,
+          "slider_heading_size": 36,
+          "slider_sub_heading_size": 24,
+          "slider_content_size": 18,
+          "sd_heading_color": "#ffffff",
+          "sd_line_color": "#fbcf00",
+          "sd_sub_heading_color": "#ffffff",
+          "sd_text_color": "#ffffff"
+        }
+      },
+      "7d3826f5-89f1-4a08-8eda-e062dd503b09": {
+        "type": "rich-text",
+        "custom_css": [
+          ".cta-overlay {padding-top: 5px; padding-bottom: 5px;}",
+          ".cta-overlay p {margin-bottom: 5px; padding-top: 0; padding-bottom: 0;}"
+        ],
+        "settings": {
+          "home_cta_heading": "<p>Customer Reviews<\/p>",
+          "home_cta_subtext": "<p><em><strong>See what our customers say<\/strong><\/em><\/p><p><em><strong>\" Superb service, Bought a monitor, price, quality and service, all super!<\/strong><\/em> <em><strong>\"<\/strong><\/em><em> - Monitor,<\/em><em><strong><br\/>\" Product delivered, came fast, thank you very much \"<\/strong><\/em><em> - Mac & PC Wireless keyboard,<\/em><br\/>\" <em><strong>Very Comfortable, Fast Delivery, Earbuds of good quality \"<\/strong><\/em><em> - Wireless Earbuds,<\/em><br\/>\" <em><strong>Good Quality, It's perfect just what I needed \" <\/strong><\/em><em>- Male DisplayPort to Female HDMI Adapter,<\/em><br\/>\" <em><strong>Good Quality & Price, excellent service, the product arrived very quickly, everything in perfect condition and good quality \"<\/strong><\/em><em> - Mac & PC Wireless keyboard.<\/em><\/p>",
+          "home_cta_link": "",
+          "cta_caption_val": 20,
+          "home_cta_heading_size": 24,
+          "home_cta_content_size": 16,
+          "home_cta_hd_color": "#ff4c3b",
+          "home_cta_txt_color": "#282727",
+          "home_cta_bg_color": "#ffffff"
+        }
+      },
+      "86fe6d08-f7e6-4d36-987a-8a81f2db421c": {
+        "type": "gallery",
+        "blocks": {
+          "86fe6d08-f7e6-4d36-987a-8a81f2db421c-image-1": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/smart-phones.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>smartphones<\/p>",
+              "promo_banner_subtext": "",
+              "promo_banner_link": "shopify:\/\/collections\/mobile-phones"
+            }
+          },
+          "86fe6d08-f7e6-4d36-987a-8a81f2db421c-image-2": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/electric-scooters.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>electric scooters<\/p>",
+              "promo_banner_subtext": "<p> - for all ages<\/p>",
+              "promo_banner_link": "shopify:\/\/collections\/electric-scooters"
+            }
+          },
+          "d898b0f9-29dc-443b-94d1-e4372a5193fd": {
+            "type": "image",
+            "settings": {
+              "promo": "shopify:\/\/shop_images\/audio-speakers.jpg",
+              "promo_banner_position": "bottom",
+              "promo_banner_heading": "<p>portable speakers | bluetooth<\/p>",
+              "promo_banner_subtext": "",
+              "promo_banner_link": "shopify:\/\/collections\/bluetooth-speakers"
+            }
+          }
+        },
+        "block_order": [
+          "86fe6d08-f7e6-4d36-987a-8a81f2db421c-image-1",
+          "86fe6d08-f7e6-4d36-987a-8a81f2db421c-image-2",
+          "d898b0f9-29dc-443b-94d1-e4372a5193fd"
+        ],
+        "settings": {
+        }
+      }
+    },
+    "content_for_index": [
+      "fe160405-2450-498a-b6a1-87416904dfb4",
+      "slideshow",
+      "864e0b8b-a272-4182-b709-ba8365ae25d3",
+      "35599fa8-e926-44e1-b04c-c781ae1c5205",
+      "39a6794b-3782-483f-8970-42148e4e0157",
+      "1556105135758",
+      "1556104982242",
+      "86fe6d08-f7e6-4d36-987a-8a81f2db421c",
+      "5a705be8-3dc0-4e4d-9075-6770051df3d0",
+      "5657e349-2d7d-4833-8236-78ef5c0ecf01",
+      "7a30f285-4745-4d5b-9544-2e0b01e24436",
+      "1551862800868",
+      "1553609452943",
+      "8039145a-f2a5-464d-beb6-13537f42708a",
+      "b3b0028c-a19f-4c78-acc5-5a5b3d07fb5b",
+      "blog-posts",
+      "7d3826f5-89f1-4a08-8eda-e062dd503b09"
+    ],
+    "blocks": {
+      "2153490007123654574": {
+        "type": "shopify:\/\/apps\/consentmo-gdpr\/blocks\/gdpr_cookie_consent\/4fbe573f-a377-4fea-9801-3ee0858cae41",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "6468128024931565999": {
+        "type": "shopify:\/\/apps\/seguno-popups\/blocks\/popup-app-embed\/f53bd66f-9a20-4ce2-ae2e-ccbd0148bd4b",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "qikify-tmenu-1701320763": {
+        "type": "shopify:\/\/apps\/qikify-smart-menu-mega-menu\/blocks\/app-embed\/19d2f1cd-1836-4a32-8937-03df3c601dc8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "9670189827046205946": {
+        "type": "shopify:\/\/apps\/hextom-translate-my-store\/blocks\/app-block\/b927a799-be04-4b97-9efb-5c8f0290a68e",
+        "disabled": true,
+        "settings": {
+        }
+      },
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": false,
+        "settings": {
+          "button_color": "#f54a34",
+          "button_icon": "hand_wave",
+          "button_text": "no_text",
+          "button_horizontal_position": "bottom_left",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Welcome, Bienvenida 👋"
+        }
+      }
+    }
+  },
+  "presets": {
+    "CookTime": {
+      "promo_bar_bg_color": "#107fa8",
+      "promo_bar_text_color": "#ffffff",
+      "header_bg_color": "#ffffff",
+      "header_logo_color": "#282727",
+      "header_text_color": "#898989",
+      "header_top_link_color": "#898989",
+      "header_border_color": "#ecefef",
+      "nav_bg_color": "#ffffff",
+      "nav_text_color": "#282727",
+      "nav_parent_hover": "#107fa8",
+      "primary_color": "#107fa8",
+      "secondary_color": "#fbcf00",
+      "heading_text_color": "#282727",
+      "body_text_color": "#898989",
+      "link_hover_color": "#136f99",
+      "button_text_color": "#ffffff",
+      "regular_price_color": "#282827",
+      "compare_price_color": "#cccccc",
+      "body_background_color": "#f3f6f6",
+      "show_bg_image": false,
+      "bg_repeat": "no-repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "content_heading_color": "#282827",
+      "content_text_color": "#898989",
+      "content_link_color": "#107fa8",
+      "ctab_bg_color": "#ffffff",
+      "ctab_heading_color": "#282727",
+      "ctab_link_color": "#107fa8",
+      "ctab_border_color": "#ecefef",
+      "footer_bg_color": "#ffffff",
+      "footer_heading_color": "#282727",
+      "footer_text_color": "#9a9a9a",
+      "footer_link_color": "#107fa8",
+      "footer_border_color": "#ecefef",
+      "footer_social_color": "#d7dbdb",
+      "sd_heading_color": "#ffffff",
+      "sd_line_color": "#fbcf00",
+      "sd_sub_heading_color": "#ffffff",
+      "sd_text_color": "#ffffff",
+      "home_video_hd_color": "#ffffff",
+      "home_video_bg_color": "#9a9a9a",
+      "home_cta_hd_color": "#282827",
+      "home_cta_txt_color": "#9a9a9a",
+      "home_cta_bg_color": "#dbdbdb",
+      "show_animation": true,
+      "base_font_value": "lato_n4",
+      "body_text_size": 14,
+      "header_font_value": "lato_n4",
+      "head_promobar": 14,
+      "head_font_size": 14,
+      "nav_text_weight": "900",
+      "nav_text_transform": "uppercase",
+      "nav_text_size": 14,
+      "nav_header_size": 16,
+      "nav_link_size": 13,
+      "slider_heading_size": 36,
+      "slider_sub_heading_size": 18,
+      "slider_content_size": 18,
+      "home_cta_heading_size": 36,
+      "home_cta_content_size": 18,
+      "header_size_1": 20,
+      "header_size_2": 18,
+      "header_size_3": 17,
+      "navigation_type": "advanced",
+      "sticky_menu": true,
+      "show_sidebar_page_collections": false,
+      "show_page_sidebar_sale": false,
+      "sidebar_page_product_count": 4,
+      "cart_type": "modal",
+      "cart_notes": true,
+      "show_shipping_calculator": true,
+      "footer_display_newsletter": true,
+      "entry_popup_newsletter": false,
+      "footer_display_social": true,
+      "entry_popup_social": false,
+      "show_entry_popup": false,
+      "popup_delay": 0,
+      "popup_return": "7",
+      "show_multiple_currencies": false,
+      "currency_format": "money_format",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "header1",
+            "search_style": "icon",
+            "heading_content": "text"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1483746503941": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "footer"
+              }
+            },
+            "1483746535482": {
+              "type": "text",
+              "settings": {
+                "title": "Text column",
+                "text": "<p>This is a custom textbox widget that you can use for any content you'd like.<\/p>"
+              }
+            },
+            "1483746512156": {
+              "type": "newsletter",
+              "settings": {
+                "text": "Sign up for our newsletter and be the first to know about coupons and special promotions.",
+                "footer_display_social": true
+              }
+            }
+          },
+          "block_order": [
+            "1483746503941",
+            "1483746535482",
+            "1483746512156"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        },
+        "article": {
+          "type": "article",
+          "settings": {
+            "show_sidebar_recent_posts": false,
+            "show_sidebar_blog_tags": false
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "product_grid_layout": 3,
+            "pagination_limit": 12,
+            "show_grid_type": false,
+            "collection_overlay": false,
+            "show_collection_sidebar": true,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "settings": {
+            "pagination_limit": 4,
+            "show_grid_type": false,
+            "show_collection_sidebar": false,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "featured-collections": {
+          "type": "featured-collections",
+          "blocks": {
+            "featured-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "featured-collections-0",
+            "featured-collections-1",
+            "featured-collections-2",
+            "featured-collections-3"
+          ],
+          "settings": {
+            "home_feature_collection_grid_layout": "4-col",
+            "featured_collection_images": "featured"
+          }
+        },
+        "blog-posts": {
+          "type": "blog-posts",
+          "settings": {
+          }
+        },
+        "video": {
+          "type": "video",
+          "settings": {
+            "title": "Featured video"
+          }
+        },
+        "page-content": {
+          "type": "page-content",
+          "settings": {
+          }
+        },
+        "instagram-feed": {
+          "type": "instagram-feed",
+          "settings": {
+            "instagram_number": 4
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "center"
+              }
+            },
+            "slideshow-1": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 70,
+                "slideshow_caption_position": "left"
+              }
+            },
+            "slideshow-2": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "right"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1",
+            "slideshow-2"
+          ],
+          "settings": {
+            "slideshow_width": "full"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "show_product_cart_postion": "bottom",
+            "product_reviews": false,
+            "show_product_swatches": false,
+            "show_product_zoom": false,
+            "show_product_sku": false,
+            "show_product_vendor": false,
+            "show_product_quantity": false,
+            "show_product_tags": false,
+            "product_additional_img": "grid",
+            "related_products": true
+          }
+        },
+        "contact-page": {
+          "type": "contact-page",
+          "settings": {
+            "show_google_map": false
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "featured-collections",
+        "blog-posts",
+        "video",
+        "page-content",
+        "instagram-feed"
+      ]
+    },
+    "FashionTime": {
+      "promo_bar_bg_color": "#ff5e9f",
+      "promo_bar_text_color": "#ffffff",
+      "header_bg_color": "#f6ecec",
+      "header_logo_color": "#282727",
+      "header_text_color": "#898989",
+      "header_top_link_color": "#898989",
+      "header_border_color": "#dedede",
+      "nav_bg_color": "#ffffff",
+      "nav_text_color": "#282727",
+      "nav_parent_hover": "#ff5e9f",
+      "primary_color": "#ff5e9f",
+      "secondary_color": "#99cc66",
+      "heading_text_color": "#282727",
+      "body_text_color": "#898989",
+      "link_hover_color": "#bd044f",
+      "button_text_color": "#ffffff",
+      "regular_price_color": "#282827",
+      "compare_price_color": "#cccccc",
+      "body_background_color": "#f6ecec",
+      "show_bg_image": false,
+      "bg_repeat": "no-repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "content_heading_color": "#282827",
+      "content_text_color": "#898989",
+      "content_link_color": "#ff5e9f",
+      "ctab_bg_color": "#ffffff",
+      "ctab_heading_color": "#282727",
+      "ctab_link_color": "#ff5e9f",
+      "ctab_border_color": "#ecefef",
+      "footer_bg_color": "#ffffff",
+      "footer_heading_color": "#282727",
+      "footer_text_color": "#9a9a9a",
+      "footer_link_color": "#ff5e9f",
+      "footer_border_color": "#ecefef",
+      "footer_social_color": "#d7dbdb",
+      "sd_heading_color": "#ffffff",
+      "sd_line_color": "#99cc66",
+      "sd_sub_heading_color": "#ffffff",
+      "sd_text_color": "#ffffff",
+      "home_video_hd_color": "#ffffff",
+      "home_video_bg_color": "#9a9a9a",
+      "home_cta_hd_color": "#282827",
+      "home_cta_txt_color": "#282827",
+      "home_cta_bg_color": "#ffaacd",
+      "show_animation": true,
+      "base_font_value": "ff_tisa_n4",
+      "body_text_size": 14,
+      "header_font_value": "ff_tisa_n4",
+      "head_promobar": 14,
+      "head_font_size": 14,
+      "nav_text_weight": "600",
+      "nav_text_transform": "none",
+      "nav_text_size": 14,
+      "nav_header_size": 16,
+      "nav_link_size": 13,
+      "slider_heading_size": 36,
+      "slider_sub_heading_size": 18,
+      "slider_content_size": 18,
+      "home_cta_heading_size": 36,
+      "home_cta_content_size": 18,
+      "header_size_1": 20,
+      "header_size_2": 18,
+      "header_size_3": 17,
+      "navigation_type": "simple",
+      "sticky_menu": false,
+      "show_sidebar_page_collections": false,
+      "show_page_sidebar_sale": false,
+      "sidebar_page_product_count": 4,
+      "cart_type": "modal",
+      "cart_notes": true,
+      "show_shipping_calculator": true,
+      "footer_display_newsletter": true,
+      "entry_popup_newsletter": false,
+      "footer_display_social": true,
+      "entry_popup_social": false,
+      "show_entry_popup": false,
+      "popup_delay": 0,
+      "popup_return": "7",
+      "show_multiple_currencies": false,
+      "currency_format": "money_format",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "header3",
+            "search_style": "bar",
+            "heading_content": "text"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1483746503941": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "footer"
+              }
+            },
+            "1483746535482": {
+              "type": "text",
+              "settings": {
+                "title": "Text column",
+                "text": "<p>This is a custom textbox widget that you can use for any content you'd like.<\/p>"
+              }
+            },
+            "1483746512156": {
+              "type": "newsletter",
+              "settings": {
+                "text": "Sign up for our newsletter and be the first to know about coupons and special promotions.",
+                "footer_display_social": true
+              }
+            }
+          },
+          "block_order": [
+            "1483746503941",
+            "1483746535482",
+            "1483746512156"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        },
+        "article": {
+          "type": "article",
+          "settings": {
+            "show_sidebar_recent_posts": false,
+            "show_sidebar_blog_tags": false
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "product_grid_layout": 3,
+            "pagination_limit": 12,
+            "show_grid_type": false,
+            "collection_overlay": false,
+            "show_collection_sidebar": true,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "settings": {
+            "pagination_limit": 4,
+            "show_grid_type": false,
+            "show_collection_sidebar": false,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "featured-collections": {
+          "type": "featured-collections",
+          "blocks": {
+            "featured-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "featured-collections-0",
+            "featured-collections-1",
+            "featured-collections-2",
+            "featured-collections-3"
+          ],
+          "settings": {
+            "home_feature_collection_grid_layout": "4-col",
+            "featured_collection_images": "featured"
+          }
+        },
+        "blog-posts": {
+          "type": "blog-posts",
+          "settings": {
+          }
+        },
+        "video": {
+          "type": "video",
+          "settings": {
+            "title": "Featured video"
+          }
+        },
+        "page-content": {
+          "type": "page-content",
+          "settings": {
+          }
+        },
+        "instagram-feed": {
+          "type": "instagram-feed",
+          "settings": {
+            "instagram_number": 4
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "center"
+              }
+            },
+            "slideshow-1": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 70,
+                "slideshow_caption_position": "left"
+              }
+            },
+            "slideshow-2": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "right"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1",
+            "slideshow-2"
+          ],
+          "settings": {
+            "slideshow_width": "full"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "show_product_cart_postion": "bottom",
+            "product_reviews": false,
+            "show_product_swatches": false,
+            "show_product_zoom": false,
+            "show_product_sku": false,
+            "show_product_vendor": false,
+            "show_product_quantity": false,
+            "show_product_tags": false,
+            "product_additional_img": "grid",
+            "related_products": true
+          }
+        },
+        "contact-page": {
+          "type": "contact-page",
+          "settings": {
+            "show_google_map": false
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "featured-collections",
+        "video",
+        "blog-posts"
+      ]
+    },
+    "FurnishTime": {
+      "promo_bar_bg_color": "#abbda5",
+      "promo_bar_text_color": "#ffffff",
+      "header_bg_color": "#ebe5e2",
+      "header_logo_color": "#282727",
+      "header_text_color": "#898989",
+      "header_top_link_color": "#898989",
+      "header_border_color": "#ebe5e2",
+      "nav_bg_color": "#ffffff",
+      "nav_text_color": "#282727",
+      "nav_parent_hover": "#abbda5",
+      "primary_color": "#abbda5",
+      "secondary_color": "#70635d",
+      "heading_text_color": "#282727",
+      "body_text_color": "#898989",
+      "link_hover_color": "#8a756b",
+      "button_text_color": "#ffffff",
+      "regular_price_color": "#282827",
+      "compare_price_color": "#cccccc",
+      "body_background_color": "#ebe5e2",
+      "show_bg_image": false,
+      "bg_repeat": "no-repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "content_heading_color": "#282827",
+      "content_text_color": "#898989",
+      "content_link_color": "#70635d",
+      "ctab_bg_color": "#ffffff",
+      "ctab_heading_color": "#282727",
+      "ctab_link_color": "#abbda5",
+      "ctab_border_color": "#ecefef",
+      "footer_bg_color": "#ffffff",
+      "footer_heading_color": "#282727",
+      "footer_text_color": "#282727",
+      "footer_link_color": "#abbda5",
+      "footer_border_color": "#ecefef",
+      "footer_social_color": "#abbda5",
+      "sd_heading_color": "#ffffff",
+      "sd_line_color": "#70635d",
+      "sd_sub_heading_color": "#ffffff",
+      "sd_text_color": "#ffffff",
+      "home_video_hd_color": "#ffffff",
+      "home_video_bg_color": "#9a9a9a",
+      "home_cta_hd_color": "#ffffff",
+      "home_cta_txt_color": "#ffffff",
+      "home_cta_bg_color": "#8a756b",
+      "show_animation": true,
+      "base_font_value": "montserrat_n4",
+      "body_text_size": 14,
+      "header_font_value": "montserrat_n4",
+      "head_promobar": 14,
+      "head_font_size": 14,
+      "nav_text_weight": "600",
+      "nav_text_transform": "uppercase",
+      "nav_text_size": 14,
+      "nav_header_size": 16,
+      "nav_link_size": 13,
+      "slider_heading_size": 36,
+      "slider_sub_heading_size": 18,
+      "slider_content_size": 18,
+      "home_cta_heading_size": 36,
+      "home_cta_content_size": 18,
+      "header_size_1": 20,
+      "header_size_2": 18,
+      "header_size_3": 17,
+      "navigation_type": "simple",
+      "sticky_menu": false,
+      "show_sidebar_page_collections": false,
+      "show_page_sidebar_sale": false,
+      "sidebar_page_product_count": 4,
+      "cart_type": "modal",
+      "cart_notes": true,
+      "show_shipping_calculator": true,
+      "footer_display_newsletter": true,
+      "entry_popup_newsletter": false,
+      "footer_display_social": true,
+      "entry_popup_social": false,
+      "show_entry_popup": false,
+      "popup_delay": 0,
+      "popup_return": "7",
+      "show_multiple_currencies": false,
+      "currency_format": "money_format",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "header_style": "header2",
+            "search_style": "icon",
+            "heading_content": "text"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "1483746503941": {
+              "type": "linklist",
+              "settings": {
+                "linklist": "footer"
+              }
+            },
+            "1483746512156": {
+              "type": "newsletter",
+              "settings": {
+                "text": "Sign up for our newsletter and be the first to know about coupons and special promotions.",
+                "footer_display_social": true
+              }
+            },
+            "1483746535482": {
+              "type": "text",
+              "settings": {
+                "title": "Text column",
+                "text": "<p>This is a custom textbox widget that you can use for any content you'd like.<\/p>"
+              }
+            }
+          },
+          "block_order": [
+            "1483746503941",
+            "1483746512156",
+            "1483746535482"
+          ],
+          "settings": {
+            "show_payment_methods": true
+          }
+        },
+        "article": {
+          "type": "article",
+          "settings": {
+            "show_sidebar_recent_posts": false,
+            "show_sidebar_blog_tags": false
+          }
+        },
+        "collection": {
+          "type": "collection",
+          "settings": {
+            "product_grid_layout": 3,
+            "pagination_limit": 12,
+            "show_grid_type": false,
+            "collection_overlay": false,
+            "show_collection_sidebar": true,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "collection-list": {
+          "type": "collection-list",
+          "settings": {
+            "pagination_limit": 4,
+            "show_grid_type": false,
+            "show_collection_sidebar": false,
+            "collection_sidebar_filters": "simple-tags",
+            "group_array": "",
+            "collection_link_list": "",
+            "show_sidebar_collections": false,
+            "show_sidebar_vendors": false,
+            "sidebar_collection_sale_collection": "",
+            "sidebar_collection_product_count": 4
+          }
+        },
+        "featured-collections": {
+          "type": "featured-collections",
+          "blocks": {
+            "featured-collections-0": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-1": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-2": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            },
+            "featured-collections-3": {
+              "type": "collection",
+              "settings": {
+                "collection": ""
+              }
+            }
+          },
+          "block_order": [
+            "featured-collections-0",
+            "featured-collections-1",
+            "featured-collections-2",
+            "featured-collections-3"
+          ],
+          "settings": {
+            "home_feature_collection_grid_layout": "4-col",
+            "featured_collection_images": "featured"
+          }
+        },
+        "blog-posts": {
+          "type": "blog-posts",
+          "settings": {
+          }
+        },
+        "video": {
+          "type": "video",
+          "settings": {
+            "title": "Featured video"
+          }
+        },
+        "page-content": {
+          "type": "page-content",
+          "settings": {
+          }
+        },
+        "instagram-feed": {
+          "type": "instagram-feed",
+          "settings": {
+            "instagram_number": 4
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "center"
+              }
+            },
+            "slideshow-1": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 70,
+                "slideshow_caption_position": "left"
+              }
+            },
+            "slideshow-2": {
+              "type": "slide",
+              "settings": {
+                "slideshow_caption_val": 40,
+                "slideshow_caption_position": "right"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1",
+            "slideshow-2"
+          ],
+          "settings": {
+            "slideshow_width": "full"
+          }
+        },
+        "product": {
+          "type": "product",
+          "settings": {
+            "show_product_cart_postion": "bottom",
+            "product_reviews": false,
+            "show_product_swatches": false,
+            "show_product_zoom": false,
+            "show_product_sku": false,
+            "show_product_vendor": false,
+            "show_product_quantity": false,
+            "show_product_tags": false,
+            "product_additional_img": "grid",
+            "related_products": true
+          }
+        },
+        "contact-page": {
+          "type": "contact-page",
+          "settings": {
+            "show_google_map": false
+          }
+        }
+      },
+      "content_for_index": [
+        "slideshow",
+        "video",
+        "featured-collections",
+        "instagram-feed"
+      ]
+    }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".shopify-payment-button__more-options:hover {color: #ffffff; border: 1px solid transparent; background: #ffc73b;}"
+    ]
+  }
+}
